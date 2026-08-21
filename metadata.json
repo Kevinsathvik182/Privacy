@@ -1,0 +1,6 @@
+{
+  "name": "Pulse Music",
+  "description": "Stealth encrypted offline mesh communicator disguised as an offline music & study player with Half-Number cipher and Bluetooth Long-Range.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
